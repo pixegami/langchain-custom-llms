@@ -1,0 +1,4 @@
+langchain
+openai
+boto3  # For AWS Bedrock
+langchain-google-genai  # For Google AI
