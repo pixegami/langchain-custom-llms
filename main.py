@@ -24,7 +24,7 @@ Then write a Python script to sum this data by 'Category' and print the results.
 """
 
 
-# OpenAI (GPT-4) LLM
+# OpenAI (GPT-3.5) LLM
 llm_open_ai = OpenAI(max_tokens=1024)
 
 # AWS Bedrock LLM
